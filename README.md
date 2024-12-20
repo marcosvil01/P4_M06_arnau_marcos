@@ -22,9 +22,6 @@ projecte-biblioteca/
 │   ├── exercici1/               # Fitxers d'exemple per a contactes
 │   │   └── exemples/
 │   │       └── contactes.csv    # Fitxer d'exemple de contactes
-│   └── sql/                     # Scripts SQL per a la base de dades
-│       ├── productes.sql        # Script per a taula 'productes'
-│       └── biblioteca.sql       # Scripts per a 'llibres', 'autors', 'prestecs'
 ├── .env                         # Fitxer de configuració d'entorn
 └── README.md                    # Documentació del projecte
 ```
