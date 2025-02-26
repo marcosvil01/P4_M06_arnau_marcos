@@ -1,5 +1,5 @@
 // Classe Llibre
-package exercici3.biblioteca;
+package exercici3.model;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;

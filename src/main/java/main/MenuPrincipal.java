@@ -1,8 +1,8 @@
 package main;
 
-import exercici1.main.MainGestorContactes; // Importació del punt d'entrada de l'exercici 1
-import exercici2.main.MainGestorProductes; // Importació del punt d'entrada de l'exercici 2
-import exercici3.main.MainBiblioteca; // Importació del punt d'entrada de l'exercici 3
+import exercici1.view.MainGestorContactes; // Importació del punt d'entrada de l'exercici 1
+import exercici2.view.MainGestorProductes; // Importació del punt d'entrada de l'exercici 2
+import exercici3.view.MainBiblioteca; // Importació del punt d'entrada de l'exercici 3
 import functions.Functions;
 
 import java.util.Scanner;

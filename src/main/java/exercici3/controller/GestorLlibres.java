@@ -1,7 +1,8 @@
 // Classe GestorLlibres per gestionar operacions CRUD (Create, Read, Update, Delete)
 // relacionades amb la taula "llibres" de la base de dades.
-package exercici3.biblioteca;
+package exercici3.controller;
 
+import exercici3.model.Llibre;
 import functions.Functions;
 import java.beans.PropertyChangeSupport;
 import java.sql.*;

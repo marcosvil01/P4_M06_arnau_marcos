@@ -1,7 +1,7 @@
-package exercici2.main;
+package exercici2.view;
 
-import exercici2.jdbc.GestorProductes;
-import exercici2.jdbc.Producte;
+import exercici2.controller.GestorProductes;
+import exercici2.model.Producte;
 import functions.Functions;
 
 import java.sql.SQLException;

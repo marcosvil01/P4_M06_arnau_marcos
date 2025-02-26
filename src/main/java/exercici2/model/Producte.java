@@ -1,6 +1,6 @@
 // Classe Producte que representa un producte a la base de dades
 // Inclou validacions per assegurar que les dades són vàlides
-package exercici2.jdbc;
+package exercici2.model;
 
 import java.io.Serializable;
 

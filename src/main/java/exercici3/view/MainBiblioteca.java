@@ -1,7 +1,9 @@
-package exercici3.main;
+package exercici3.view;
 
-import exercici3.biblioteca.*;
-import functions.Functions;
+import exercici3.model.*;
+import exercici3.controller.GestorAutors;
+import exercici3.controller.GestorLlibres;
+import exercici3.controller.GestorPrestecs;
 
 import java.sql.SQLException;
 import java.time.LocalDate;

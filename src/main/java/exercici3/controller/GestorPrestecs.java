@@ -1,7 +1,8 @@
 // Classe GestorPrestecs per gestionar operacions CRUD (Create, Read, Update, Delete)
 // relacionades amb la taula "prestecs" de la base de dades.
-package exercici3.biblioteca;
+package exercici3.controller;
 
+import exercici3.model.Prestec;
 import functions.Functions;
 import java.beans.PropertyChangeSupport;
 import java.sql.*;

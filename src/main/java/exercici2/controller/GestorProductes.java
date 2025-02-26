@@ -1,5 +1,7 @@
 // Classe GestorProductes per gestionar operacions CRUD amb notificació de canvis
-package exercici2.jdbc;
+package exercici2.controller;
+
+import exercici2.model.Producte;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
